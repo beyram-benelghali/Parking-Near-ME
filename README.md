@@ -9,4 +9,4 @@ This repo contains the following samples:
 
 to change any Place Types : https://developers.google.com/places/supported_types
 
-![alt tag](https://fb-s-c-a.akamaihd.net/h-ak-xfl1/v/t34.0-12/16402413_1242705379117793_863039484_n.png?oh=5dc1e7b8186cc49c049b7f13fc928ae9&oe=588DF1AF&__gda__=1485707715_a804051ea8caeed6787f95e79c601281)
+![alt tag](https://scontent-mxp1-1.xx.fbcdn.net/v/t34.0-12/16402413_1242705379117793_863039484_n.png?oh=d4bd3c1a220abc9c1f1a7e6557b925c7&oe=58913D6F)
